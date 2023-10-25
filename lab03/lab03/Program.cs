@@ -15,7 +15,7 @@ namespace lab03 {
 
             Console.WriteLine($"queue3: {queue3}");
 
-            queue1 += 1;
+            queue1 += 1;    
             queue2 += 1;
             queue1 += 2;
             queue2 += 2;
