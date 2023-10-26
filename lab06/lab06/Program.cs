@@ -58,9 +58,9 @@ class Program
             catch (IndexOutOfRangeException ex) {
                 Console.WriteLine($"{ex.GetType().Name}: {ex.Message}");
             }
-            catch (Exception ex){
+            catch {
                 Console.WriteLine("Some unexpexted exception");
-                throw ex;
+                throw;
             }
             finally {
                 Console.WriteLine("[END] Try to get 'warehouse[4]'");
