@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace lab09 {
-    internal class ConcertArtists : IEnumerable<string> {
+    public class ConcertArtists : IEnumerable<string> {
         private List<string> _artists;
 
         public List<string> AsList { get => _artists; }

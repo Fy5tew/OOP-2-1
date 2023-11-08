@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace lab08 {
-    internal class ProgrammingLanguage {
+    public class ProgrammingLanguage {
         private string _title;
 
         private string? _version;

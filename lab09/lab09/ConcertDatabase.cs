@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace lab09 {
-    internal class ConcertDatabase {
+    public class ConcertDatabase {
         private readonly string _name;
         private readonly Dictionary<string, Concert> _database = new Dictionary<string, Concert>();
 

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace lab09 {
-    internal class Concert {
+    public class Concert {
         private string _title;
         private string _location;
         private DateOnly _date;

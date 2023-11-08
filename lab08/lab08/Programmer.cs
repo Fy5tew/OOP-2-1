@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace lab08 {
-    internal class Programmer {
+    public class Programmer {
         public delegate void RenameEventHandler(string newName);
 
         public delegate void NewPropertyEventHandler(string key, string? value);
