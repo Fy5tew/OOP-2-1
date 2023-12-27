@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2023-12-21T12:51:05.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="l4nbahOg9FHJT2ivXUIw" version="22.1.11" type="device">
+  <diagram name="Page-1" id="pKR3qFELEurvC52VTtqw">
+    <mxGraphModel dx="1050" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6-mNbsPWZuI9so08bJkr-2" value="Квартиросъемщик" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="40" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="6-mNbsPWZuI9so08bJkr-2">
+          <mxGeometry x="55" y="80" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-3" value="Диспетчер" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="440" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="6-mNbsPWZuI9so08bJkr-3">
+          <mxGeometry x="55" y="160" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-17" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="6-mNbsPWZuI9so08bJkr-3">
+          <mxGeometry x="45" y="390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-4" value="Бригада" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="640" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="6-mNbsPWZuI9so08bJkr-4">
+          <mxGeometry x="55" y="200" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-18" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="6-mNbsPWZuI9so08bJkr-4">
+          <mxGeometry x="45" y="390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-5" value="Заявка" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="240" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="6-mNbsPWZuI9so08bJkr-5">
+          <mxGeometry x="55" y="120" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-16" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="6-mNbsPWZuI9so08bJkr-5">
+          <mxGeometry x="45" y="390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-10" value="Отправка заявки" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="6-mNbsPWZuI9so08bJkr-6" target="6-mNbsPWZuI9so08bJkr-7">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="110" y="120" as="sourcePoint" />
+            <mxPoint x="220" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-11" value="Просмотр заявок" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="299.5" y="160" as="sourcePoint" />
+            <mxPoint x="495" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-12" value="Формирование бригады" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.537;exitY=0.518;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6-mNbsPWZuI9so08bJkr-3" target="6-mNbsPWZuI9so08bJkr-9">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="520" y="200" as="sourcePoint" />
+            <mxPoint x="600" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-13" value="Выполнение работ" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0.94;entryY=0.779;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6-mNbsPWZuI9so08bJkr-9" target="6-mNbsPWZuI9so08bJkr-8">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="590" y="340" as="sourcePoint" />
+            <mxPoint x="550" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-14" value="Уведомление о завершении работ" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="6-mNbsPWZuI9so08bJkr-8" target="6-mNbsPWZuI9so08bJkr-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="300" y="410" as="sourcePoint" />
+            <mxPoint x="130" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6-mNbsPWZuI9so08bJkr-15" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="85" y="390" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
